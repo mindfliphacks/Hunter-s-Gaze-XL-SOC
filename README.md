@@ -12,6 +12,6 @@ A single-file Threat Hunting & IOC Aggregation platform built with Flask and Alp
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/hunters-gaze.git](https://github.com/YOUR_USERNAME/hunters-gaze.git)
-   cd hunters-gaze
+   git clone https://github.com/mindfliphacks/Hunter-s-Gaze-XL-SOC.git
+   cd Hunter-s-Gaze-XL-SOC
    python3 hunters-gaze-ioc.py
